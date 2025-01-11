@@ -1,2 +1,7 @@
-# MSDS-DTSA-5301
-This repository contains the submission of the final project of the course (Project 1: NYPD Shooting Incident Data Report)
+# NYPD Shooting Incident Data Report
+
+## Goal
+This repository contains the submission for the final project of the course (Project 1: NYPD Shooting Incident Data Report). The goal is to conduct exploratory data analysis and estimate a regression model to potentially explain some of the variance.
+
+## Data
+This dataset details every shooting incident in NYC from 2006 to the end of the previous year, including event specifics, location, time, and suspect and victim demographics. The data is reviewed quarterly by the Office of Management Analysis and Planning before being posted on the NYPD website.
